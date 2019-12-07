@@ -28,10 +28,10 @@ Weblap
 </div>
 <div id=content>
 	<h1>Iskol&aacutenk</h1><br>
-	<p><strong>c&iacutem:</strong> Nagyszalonta, Aurel Lazãr u. 1</p>
-	<p><strong>levelez&eacutesi c&iacutem:</strong> 415500 Nagyszalonta, Bihar, 1944 j&uacutenius 7 u. 2</p>
-	<p><strong>tel/fax:</strong> 0359-405134</p>
-	<p><strong>e-mail:</strong> gsaranyjanos@yahoo.com<strong>
+	<p><strong>c&iacutem:</strong> </p>
+	<p><strong>levelez&eacutesi c&iacutem:</strong> </p>
+	<p><strong>tel/fax:</strong> </p>
+	<p><strong>e-mail:</strong> <strong>
 </div>
 </body>
 </html>
