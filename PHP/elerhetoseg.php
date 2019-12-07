@@ -31,7 +31,7 @@ Weblap
 	<p><strong>c&iacutem:</strong> </p>
 	<p><strong>levelez&eacutesi c&iacutem:</strong> </p>
 	<p><strong>tel/fax:</strong> </p>
-	<p><strong>e-mail:</strong> <strong>
+	<p><strong>e-mail:</strong><strong>
 </div>
 </body>
 </html>
