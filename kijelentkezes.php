@@ -1,9 +1,0 @@
-<?php
-session_start();
-$kapcsolodas=mysql_connect('localhost','root','');
-$adatbazis=mysql_select_db('users',$kapcsolodas);
-unset($_SESSION['felhasznalonev']);
-unset($_SESSION);
-session_destroy();
-header("Location:index.php");
-?>
