@@ -1,0 +1,48 @@
+div#header
+{
+	padding:20px;
+	float:top;
+	background-color:burlywood;
+	margin:0px;
+}
+div#udvozlet
+{
+	position:relative;
+	top:-30px;
+	width:33%;
+	float:left;
+	margin:0px;
+}
+div#cim
+{
+	position:relative;
+	top:-30px;
+	width:33%;
+	float:left;
+	text-align:center;
+	margin:0px;
+}
+div#menu
+{
+	position:relative;
+	top:-30px;
+	width:34%;
+	float:left;
+	text-align:right;
+	margin:0px;
+}
+div#content
+{
+	text-align:center;
+}
+p.header
+{
+	font-family:"Arial",Sans-Serif;
+	text-decoration:none;
+	font-size:20px;
+}
+body
+{
+	background-color:antiquewhite;
+	margin:0px;
+}
